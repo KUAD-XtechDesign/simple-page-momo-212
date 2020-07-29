@@ -28,6 +28,7 @@ img.frame{
 }
 
 .name{
+  color: #ff0000;
   margin-bottom: 10px;
   padding-bottom: 10px;
   font-size: 1.2em;
